@@ -1,5 +1,5 @@
 Locales['fi'] = {
-  ['you_paid'] = 'you paid ~g~$%s~s~ to the DMV school',
+  ['you_paid'] = 'sinä maksoit ~g~$%s~s~ autokoululle',
   ['go_next_point'] = 'mene seuraavaan pisteeseen.',
   ['in_town_speed'] = 'saavuit kaupunkiin! Seuraa nopeuttasi Nopeusrajoitus: ~y~%s~s~ km/h',
   ['next_point_speed'] = 'mene seuraavaan pisteeseen Nopeusrajoitus: ~y~%s~s~ km/h',
